@@ -2,9 +2,9 @@
 
 Kewl is a multi-topic discussion forum wherein you can indulge in real-time discussions on certain topics with like minded people to generate meaningful thoughts on the topic.
 
-Working prototype:
+<!-- Working prototype:
 <br/>
-https://tranquil-chamber-48344.herokuapp.com/
+https://tranquil-chamber-48344.herokuapp.com/ -->
 
 ---
 
